@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denish Shrestha.
 - 👀 I’m interested in more about machine learning, data mining, data visualization and artificial intelligence.
-- 🌱 I’m currently pursuing my master's degree in Data Analytics in University of Houston-Downtown.
+- 🌱 I’m currently pursuing my master's degree in Data Analytics at University of Houston-Downtown.
 - 💞️ I’m looking to collaborate on data visualization projects at the moment
 - 📫 Please check my [LinkedIn](https://www.linkedin.com/in/denish-shrestha-ba250a199/) profile <br/> 
 
